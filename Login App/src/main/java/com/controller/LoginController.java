@@ -14,7 +14,7 @@ import com.service.LoginService;
 public class LoginController {
 	
      @Autowired
-     LoginService loginService;
+     private LoginService loginService;
 	
 	@RequestMapping(value="/login",method=RequestMethod.GET)
 	public String showLoginpage(@ModelAttribute("login") LoginBean loginBean) {
