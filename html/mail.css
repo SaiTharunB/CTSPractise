@@ -1,0 +1,57 @@
+*{
+margin:0;
+padding:0;
+}
+#container
+{
+
+	width:980px;
+	height:100%;
+	margin:auto;
+}
+#container a
+{
+	text-decoration:none;
+}
+#container h3
+{
+	font-size:40px;
+}
+#hold table
+{
+	width:70%;
+	height=:1000%;
+
+	padding:10px;
+	margin:auto;
+	text-align:left;
+}
+#hold table th
+{
+	font-size:25px;
+	width:60%;
+}
+#hold table td
+{
+	
+	width:8%;
+	padding:7px;
+}
+#im table 
+{
+	width:70%;
+	height=:1000%;
+	padding:10px;
+	margin:auto;
+	text-align:left;
+}
+#im table td
+{
+	width:10%;
+	padding:7px;
+}
+#lc table td
+{
+	width:8%;
+	padding:7px;
+}
